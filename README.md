@@ -1,11 +1,9 @@
-# temporalio
+# Loan Application Workflow using Temporal
 Temporal Example - Loan Application
 
-# Description
 
+## Workflow Implementation
 
-# Workflow Implementation
+## Activities
 
-# Activities
-
-# Workers
+## Workers
